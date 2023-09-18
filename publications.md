@@ -8,7 +8,7 @@ Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 ## Conference Paper
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
+- [Research on Mathematical Modeling Competition and Ideological and Political Education Based on Analysis and Prediction Algorithm](https://www.researchgate.net/publication/369471205_Research_on_Mathematical_Modeling_Competition_and_Ideological_and_Political_Education_Based_on_Analysis_and_Prediction_Algorithm)<br>Xiang Li, Hongpeng Wang, **Jiaju Kang**, Yiming Qiao<br>4th International Conference on Computer Science and Intelligent Communication (CSIC2022)<br>(Accepted and Published)
 
 - [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
 
