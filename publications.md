@@ -18,9 +18,9 @@ Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 ## Working Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>MDPI Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
+- KGCN4Camp: The short text processing mechanism of Chinese complaints<br>Applied Intelligence (IF: 5.122, JCR Q2).<br> Under Review.<br>
 
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
+- Research on unmanned distribution mode of 'land-air combination' multi-agent medical supplies based on improved CBS algorithm<br>INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH (IF: 5.180, JCR Q2).<br> Under Review.<br>
 
   <br>
 
