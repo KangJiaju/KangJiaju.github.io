@@ -12,15 +12,15 @@ Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 - [Composition Analysis and Identification of ancient glass Products](https://www.researchgate.net/publication/366262179_Composition_Analysis_and_Identification_of_ancient_glass_products)<br>Hongpeng Wang, Xiang Li, **Jiaju Kang**(Joint first author), Yiming Qiao<br>5th International Conference on Chemical Engineering and Advanced Materials (CEAM 2022)<br>(Accepted and Published)<br>Chongqing, China. September, 2022. <br>
 
-- [Review of UAV obstacle avoidance planning based on artificial potential field]<br>**Jiaju Kang**<br>International Conference on Mechatronics and Smart Systems (CONF-MSS 2023)<br>Oxford, United Kingdom. June, 2023.<br>
+- Review of UAV obstacle avoidance planning based on artificial potential field<br>**Jiaju Kang**<br>International Conference on Mechatronics and Smart Systems (CONF-MSS 2023)<br>Oxford, United Kingdom. June, 2023.<br>
 
   <br>
 
 ## Working Manuscript
 
-- KGCN4Camp: The short text processing mechanism of Chinese complaints<br>Applied Intelligence (IF: 5.122, JCR Q2).<br> Under Review.<br>
+- KGCN4Comp: The short text processing mechanism of Chinese complaints<br>Applied Intelligence <br>(IF: 5.122, JCR Q2).<br> Under Review.<br>
 
-- Research on unmanned distribution mode of 'land-air combination' multi-agent medical supplies based on improved CBS algorithm<br>INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH (IF: 5.180, JCR Q2).<br> Under Review.<br>
+- Research on unmanned distribution mode of 'land-air combination' multi-agent medical supplies based on improved CBS algorithm<br>International Journal of Robotics Research<br>(IF: 5.180, JCR Q2).<br> Under Review.<br>
 
   <br>
 
