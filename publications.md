@@ -12,7 +12,7 @@ Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 - [Composition Analysis and Identification of ancient glass Products](https://www.researchgate.net/publication/366262179_Composition_Analysis_and_Identification_of_ancient_glass_products)<br>Hongpeng Wang, Xiang Li, **Jiaju Kang**(Joint first author), Yiming Qiao<br>5th International Conference on Chemical Engineering and Advanced Materials (CEAM 2022)<br>(Accepted and Published)<br>Chongqing, China. September, 2022. <br>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- [Review of UAV obstacle avoidance planning based on artificial potential field]<br>**Jiaju Kang**<br>International Conference on Mechatronics and Smart Systems (CONF-MSS 2023)<br>Oxford, United Kingdom. June, 2023.<br>
 
   <br>
 
