@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://kangjiaju.github.io/kangjiaju.jpg" class="floatpic" width="360" height="480">
+<img src="https://kangjiaju.github.io/images/qingdao.jpg" class="floatpic" width="360" height="480">
 
 Here is **Jiaju Kang (Charles, 康家驹)**.
 
@@ -41,4 +41,4 @@ My current research focuses on the perception and modeling of the surrounding en
 - **Sep 2023：**A project on the use of **large language models** for **drone swarm control** is being considered. This will become one of the topics of undergraduate graduation design.
 - **June 2023：**One paper accepted to CONF-MSS 2023, see you in Oxford!
 - **July 2022：**Research Intern at Wuhan University on the topic of graphic retrieval in the field of remote sensing, advised by [Prof. Mi Zhang](http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm).
-- **April 2021：**Manage the Teddy Smart Studio as a student leader, advised by [Prof. Xiaofei Niu](https://www.sdjzu.edu.cn/jsjkx/info/1024/4395.htm).
+- **April 2021：**Manage the **Teddy Intelligence Studio** as a student leader, advised by [Prof. Xiaofei Niu](https://www.sdjzu.edu.cn/jsjkx/info/1024/4395.htm).
