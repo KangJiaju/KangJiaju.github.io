@@ -18,9 +18,9 @@ Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 ## Working Manuscript
 
-- KGCN4Comp: The short text processing mechanism of Chinese complaints<br>Applied Intelligence <br>(IF: 5.122, JCR Q2).<br> Under Review.<br>
+- KGCN4Comp: The short text processing mechanism of Chinese complaints<br>Applied Intelligence (IF: 5.122, JCR Q2).<br> Under Review.<br>
 
-- Research on unmanned distribution mode of 'land-air combination' multi-agent medical supplies based on improved CBS algorithm<br>International Journal of Robotics Research<br>(IF: 5.180, JCR Q2).<br> Under Review.<br>
+- Research on unmanned distribution mode of 'land-air combination' multi-agent medical supplies based on improved CBS algorithm<br>International Journal of Robotics Research (IF: 5.180, JCR Q2).<br> Under Review.<br>
 
   <br>
 
