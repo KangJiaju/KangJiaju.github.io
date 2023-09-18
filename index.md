@@ -14,7 +14,7 @@ I am a senior student majoring in **Big Data and Data Science Technology** at Sh
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall.**
 
 - **Sep 2020 - June 2024:** Shandong Jianzhu University (BEng)
 - **July 2023 - June 2024:** Wuhan University (Research Inter)
