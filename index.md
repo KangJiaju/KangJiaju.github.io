@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jiaju Kang (Charles, 康家驹)**.
 
-I am a senior student majoring in **Big Data and Data Science Technology** at Shandong Jianzhu University. Currently, I am working as a research inter in the **State Key Laboratory of Surveying, Mapping, and Remote Sensing Information Engineering** (Wuhan University), advised by [Prof. Mi Zhang](http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm). 
+I am a senior student majoring in **Big Data and Data Science Technology** at Shandong Jianzhu University. Currently, I am working as a research inter in **the State Key Laboratory of Surveying, Mapping, and Remote Sensing Information Engineering** (Wuhan University), advised by [Prof. Mi Zhang](http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm). 
 
 <br>
 
