@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Jiaju Kang (Charles, 康家驹)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a senior student majoring in **Big Data and Data Science Technology** at Shandong Jianzhu University. Currently, I am working as a research inter in the **State Key Laboratory of Surveying, Mapping, and Remote Sensing Information Engineering** (Wuhan University), advised by [Prof. Mi Zhang](http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm). 
 
 <br>
 
@@ -16,22 +16,21 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2020 - June 2024:** Shandong Jianzhu University (BEng)
+- **July 2023 - June 2024:** Wuhan University (Research Inter)
 
 <br>
 
 ---
 
-## Research Interests
+## Research interest
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- Machine Learning
+- Visual servo autonomous unmanned system
+- Environment modeling algorithms using new sensors
+- Robot control integrated with LLM
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on the perception and modeling of the surrounding environment of intelligent systems, especially cluster perception. My interests are **Autonomous unmanned systems** and their application to **Group Perception in Decision Making**. In short, design interconnected clusters with common visual capabilities to make the best decisions. I hope to dedicate my talents to this meaningful cause and bring benefits to society.
 
 <br>
 
