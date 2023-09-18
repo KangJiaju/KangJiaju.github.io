@@ -17,7 +17,7 @@ I am a senior student majoring in **Big Data and Data Science Technology** at Sh
 **<font color='red'>[Highlight]</font> I am looking for Ph.D. position to start in 2024 Fall.**
 
 - **Sep 2020 - June 2024:** Shandong Jianzhu University (BEng)
-- **July 2023 - June 2024:** Wuhan University (Research Inter)
+- **July 2022 - April 2024:** Wuhan University (Research Inter)
 
 <br>
 
