@@ -30,8 +30,8 @@ Lastest Update: 19th Sep 2023&nbsp;
 
 ## Undergraduate Thesis
 
-- Trajectory generation and control architecture of zero-sample aircraft based on GPT-4<br>**Jiaju Kang** (Advisor: Xiaofei Niu). Final Year Project. Under working<br>Expect to publish a research paper to International Journal of Robotics Research 2025
+- Trajectory generation and control architecture of zero-sample aircraft based on GPT-4<br>**Jiaju Kang** (Advisor: Xiaofei Niu). <br>Final Year Project. Under working<br>Expect to publish a research paper to International Journal of Robotics Research 2025
 
-- Remote sensing image retrieval based on large language model<br>**Jiaju Kang** (Advisor: Mi Zhang) Intern Program for Junior Students.<br>Working at the Institute of Aerospace Science and Technology, Wuhan University
+- Remote sensing image retrieval based on large language model<br>**Jiaju Kang** (Advisor: Mi Zhang). <br>Intern Program for Junior Students. Under working<br>Working at the Institute of Aerospace Science and Technology, Wuhan University
 
   <br>
