@@ -8,7 +8,7 @@ Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://ca
 
 ## Conference Paper
 
-- [Research on Mathematical Modeling Competition and Ideological and Political Education Based on Analysis and Prediction Algorithm](https://www.researchgate.net/publication/369471205_Research_on_Mathematical_Modeling_Competition_and_Ideological_and_Political_Education_Based_on_Analysis_and_Prediction_Algorithm)<br>Xiang Li, Hongpeng Wang, **Jiaju Kang** (Joint first author), Yiming Qiao<br>4th International Conference on Computer Science and Intelligent Communication (CSIC2022)<br>(Accepted and Published)<br>Tianjin, China. December, 2022.<br>
+- [Research on Mathematical Modeling Competition and Ideological and Political Education Based on Analysis and Prediction Algorithm](https://www.researchgate.net/publication/369471205_Research_on_Mathematical_Modeling_Competition_and_Ideological_and_Political_Education_Based_on_Analysis_and_Prediction_Algorithm)<br>Xiang Li, Hongpeng Wang, **Jiaju Kang** (Joint first author), Yiming Qiao<br>4th International Conference on Computer Science and Intelligent Communication (CSIC 2022)<br>(Accepted and Published)<br>Tianjin, China. December, 2022.<br>
 
 - [Composition Analysis and Identification of ancient glass Products](https://www.researchgate.net/publication/366262179_Composition_Analysis_and_Identification_of_ancient_glass_products)<br>Hongpeng Wang, Xiang Li, **Jiaju Kang** (Joint first author), Yiming Qiao<br>5th International Conference on Chemical Engineering and Advanced Materials (CEAM 2022)<br>(Accepted and Published)<br>Chongqing, China. September, 2022. <br>
 
