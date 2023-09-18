@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/kangjiaju.jpg" class="floatpic" width="360" height="480">
+<img src="https://kangjiaju/kangjiaju.github.io/kangjiaju.jpg" class="floatpic" width="360" height="480">
 
 Here is **Jiaju Kang (Charles, 康家驹)**.
 
