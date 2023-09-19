@@ -28,7 +28,7 @@ Lastest Update: 19th Sep 2023&nbsp;
 ---
 
 ## SOFTWARE COPYRIGHT
-- New GCE Voluntary Application Support Decision System V1.0<br>
+- [New GCE Voluntary Application Support Decision System V1.0](https://register.ccopyright.com.cn/query.html)<br>
 · 新高考志愿填报辅助决策系统 V1.0<br>
 · Registration Code: 2022SR1272751<br>
 · Authors: Hongpeng Wang; Chuanling Yang; **Jiaju Kang**; Wenjie Ji; Yuxi Bi.<br>
