@@ -41,5 +41,6 @@ My current research focuses on the perception and modeling of the surrounding en
 
 - **Sept. 2023：**A project on the use of **large language models** for **drone swarm control** is being considered. This will become one of the topics of undergraduate graduation design.
 - **Jun. 2023：**One paper accepted to CONF-MSS 2023, see you in Oxford!
+- **Feb. 2023：**Online Research Intern project with the theme of "Mobile Robot", advised by [Prof. Amanda Prorok](https://www.cst.cam.ac.uk/people/asp45).
 - **Jul. 2022：**Research Intern at Wuhan University on the topic of graphic retrieval in the field of remote sensing, advised by [Prof. Mi Zhang](http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm).
 - **Apr. 2021：**Manage the **Teddy Intelligence Studio** as a student leader, advised by [Prof. Xiaofei Niu](https://www.sdjzu.edu.cn/jsjkx/info/1024/4395.htm).
