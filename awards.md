@@ -18,6 +18,8 @@ Lastest Update: 19th Sep 2023 &nbsp; 
 
 - Dec 2021: "Young and Promising" title in Huawei National Youth Artificial Intelligence Social Practice
 - Nov 2021: Excellent Volunteer of the 13th Shandong College Students Science and Technology Festival - The 19th Shandong College Students Software Design Competition
+- Oct 2022: Paper entitled “Research on Mathematical ModelingCompetition and Ideological and Political Education Based on Analysis and Prediction Algorithm” has been awarded as an excellent paper (**First Price**) by international experts of 2022 4th International Conference on Computer Science and Intelligent Communication. 
+- Oct 2022: Paper entitled "Composition Analysis and Identification of ancient glass products" has been awarded as an excellent paper (**First Price**) by international experts of 2022 5th international Conference on Chemical Engineering and Advanced Materials. 
 - Jul 2022: Excellent Communication Ambassador of the 5th China Youth Cup National College Student Mathematical Modelling Competition
 - Jul 2022: Outstanding Organizer of the 5th China Youth Cup National College Student Mathematical Modelling Competition
 
