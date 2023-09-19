@@ -4,7 +4,7 @@ permalink: /work/index.html
 title: work
 ---
 
-<img src="https://kangjiaju.github.io/images/11.jpg" class="floatpic" width="360" height="480">
+<img src="https://kangjiaju.github.io/images/11.png" class="floatpic" width="360" height="480">
 
 ## A couple of topics I've been thinking about
 - [**KGCN4Comp: The short text processing mechanism of Chinese complaints**]()<br>
