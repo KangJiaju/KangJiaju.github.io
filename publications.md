@@ -12,7 +12,7 @@ Lastest Update: 19th Sep 2023&nbsp;
 
 - [Composition Analysis and Identification of ancient glass Products](https://www.researchgate.net/publication/366262179_Composition_Analysis_and_Identification_of_ancient_glass_products)<br>Hongpeng Wang, Xiang Li, **Jiaju Kang** (Joint first author), Yiming Qiao<br>5th International Conference on Chemical Engineering and Advanced Materials (CEAM 2022)<br>(Accepted and Published)<br>Chongqing, China. September, 2022. <br>
 
-- Review of UAV obstacle avoidance planning based on artificial potential field<br> [Slides](https://kangjiaju.github.io/mypaper/2_paper000.pdf).<br>**Jiaju Kang**<br>International Conference on Mechatronics and Smart Systems (CONF-MSS 2023)<br>(Accepted)<br>Oxford, United Kingdom. June, 2023.<br>
+- Review of UAV obstacle avoidance planning based on artificial potential field<br> [[Slides]](https://kangjiaju.github.io/mypaper/2_paper000.pdf).<br>**Jiaju Kang**<br>International Conference on Mechatronics and Smart Systems (CONF-MSS 2023)<br>(Accepted)<br>Oxford, United Kingdom. June, 2023.<br>
 
   <br>
 
