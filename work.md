@@ -7,9 +7,8 @@ title: work
 
 ## A couple of topics I've been thinking about
 
-<img src="https://kangjiaju.github.io/images/11.png" class="floatpic" width="500" height="700">
-
 - [**KGCN4Comp: The short text processing mechanism of Chinese complaints**]()<br>
+<img src="https://kangjiaju.github.io/images/11.png" class="floatpic" width="500" height="700">
     · In China, government complaint departments receive a large volume of complaints from citizens every day, covering various topics such as food safety concerns, contract issues, violations of public facilities usage, and unreasonable business practices. The traditional approach of government departments involves human phone operators categorizing these complaints into a multi-label classification system upon receiving them, after which responsible officials from different departments periodically handle these issues. As one can imagine, under the daily task load of tens of thousands of complaints, this method incurs significant costs.<br>
     · Therefore, we aim to implement a machine learning approach to achieve equally effective classification results, and even predict which departments may collaborate more effectively based on the complaint text. In an intriguing scenario, the algorithm would start transcribing the conversation into text and ask the user for necessary information in the first second of the call. Users would only need to comply. After the call concludes, the algorithm would produce the best classification result.<br>
 
