@@ -4,6 +4,8 @@ permalink: /work/index.html
 title: work
 ---
 
+<img src="https://kangjiaju.github.io/images/11.jpg" class="floatpic" width="360" height="480">
+
 ## A couple of topics I've been thinking about
 - [KGCN4Comp: The short text processing mechanism of Chinese complaints]()
     · In China, government complaint departments receive a large volume of complaints from citizens every day, covering various topics such as food safety concerns, contract issues, violations of public facilities usage, and unreasonable business practices. The traditional approach of government departments involves human phone operators categorizing these complaints into a multi-label classification system upon receiving them, after which responsible officials from different departments periodically handle these issues. As one can imagine, under the daily task load of tens of thousands of complaints, this method incurs significant costs.
