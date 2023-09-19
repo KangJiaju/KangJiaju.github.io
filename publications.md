@@ -23,7 +23,9 @@ Lastest Update: 19th Sep 2023&nbsp;
 - [A method of traffic travel mode projection based on mobile phone signalling data](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)<br>
 · 一种基于手机信令数据的交通出行方式推算方法<br>
 · Patent code: CN202210756759.7<br>
-· Authors: Hui Zhang; Zexuan Hua; Qingde Kong; Shihao Li; **Jiaju Kang**; Xinyue Ren; Yanjun Liu; Zihan Yu.<br>
+· Authors: Hui Zhang; Zexuan Hua; Qingde Kong; Shihao Li; **Jiaju Kang**; Xinyue Ren; Yanjun Liu; Zihan Yu.
+
+<br>
 
 ---
 
@@ -31,7 +33,9 @@ Lastest Update: 19th Sep 2023&nbsp;
 - [New GCE Voluntary Application Support Decision System V1.0](https://register.ccopyright.com.cn/query.html)<br>
 · 新高考志愿填报辅助决策系统 V1.0<br>
 · Registration Code: 2022SR1272751<br>
-· Authors: Hongpeng Wang; Chuanling Yang; **Jiaju Kang**; Wenjie Ji; Yuxi Bi.<br>
+· Authors: Hongpeng Wang; Chuanling Yang; **Jiaju Kang**; Wenjie Ji; Yuxi Bi.
+
+<br>
 
 ---
 
