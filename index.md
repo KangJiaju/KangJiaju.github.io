@@ -33,7 +33,7 @@ I am a senior student majoring in **Big Data and Data Science Technology** at Sh
 - Environment modeling algorithms using new sensors
 - Robot control integrated with LLM
 
-My current research focuses on the perception and modeling of the surrounding environment of intelligent systems, especially cluster perception. My interests are **Autonomous unmanned systems** and their application to **Group Perception in Decision Making**. In short, design interconnected clusters with common visual capabilities to make the best decisions. I hope to dedicate my talents to this meaningful cause and bring benefits to society.
+My current research focuses on the perception and modeling of the surrounding environment of intelligent systems, especially cluster perception. My interests are **Autonomous unmanned systems** and their application to **Group Perception in Decision Making**. In short, design interconnected clusters with common visual capabilities to make the best decisions. I hope to dedicate my talents to this meaningful cause and bring benefits to society.<br>
 I am also interested in **knowledge discovery** in massive data using methods such as knowledge graph. I have extensive practical experience in the field of NLP. Looking forward to a suitable project to continue my research in this field.
 
 <br>
