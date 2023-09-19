@@ -23,8 +23,7 @@ Lastest Update: 19th Sep 2023&nbsp;
 - [A method of traffic travel mode projection based on mobile phone signalling data](https://www.researchgate.net/publication/366262179_Composition_Analysis_and_Identification_of_ancient_glass_products)<br>
 · Patent code: CN202210756759.7<br>
 · Authors: Hui Zhang; Zexuan Hua; Qingde Kong; Shihao Li; **Jiaju Kang**; Xinyue Ren; Yanjun Liu; Zihan Yu.<br>
-· Abstract: This invention discloses a method for estimating transportation modes based on mobile signaling data, which pertains to the field of mobile traffic communication technology.  It primarily relies on spatiotemporal information from mobile signaling data to determine the origin and destination points of transportation trips.  Subsequently, it proposes evaluation criteria such as average speed, speed variance, 85th percentile speed, dwell time per kilometer, and dwell point spacing.  Finally, it utilizes clustering algorithms to group similar trips based on their features, assigns transportation categories, and determines the thresholds for the evaluation criteria.
-In this study, mobile signaling data from multi-mode trips was collected using the AdaBase station road testing tool for testing purposes. The research demonstrates that this model achieves an accuracy rate of up to 95.45%. This research can provide technical support for multi-mode transportation planning and control, offering valuable guidance for optimizing multi-mode transportation facilities and passenger flow management.
+
 
 ---
 
@@ -36,9 +35,9 @@ In this study, mobile signaling data from multi-mode trips was collected using t
 
 ## Working Manuscript
 
-- KGCN4Comp: The short text processing mechanism of Chinese complaints<br>Applied Intelligence (IF: 5.122, JCR Q2).<br> Under Review.<br>
+- KGCN4Comp: The short text processing mechanism of Chinese complaints<br>· Applied Intelligence (IF: 5.122, JCR Q2).<br> · Under Review.<br>
 
-- Research on unmanned distribution mode of 'land-air combination' multi-agent medical supplies based on improved CBS algorithm<br>International Journal of Robotics Research (IF: 5.180, JCR Q1).<br> Under Review.<br>
+- Research on unmanned distribution mode of 'land-air combination' multi-agent medical supplies based on improved CBS algorithm<br>· International Journal of Robotics Research (IF: 5.180, JCR Q1).<br>· Under Review.<br>
 
   <br>
 
@@ -46,8 +45,8 @@ In this study, mobile signaling data from multi-mode trips was collected using t
 
 ## Undergraduate Thesis
 
-- Trajectory generation and control architecture of zero-sample aircraft based on GPT-4<br>**Jiaju Kang** (Advisor: Xiaofei Niu). <br>Final Year Project. Under working<br>Expect to publish a research paper to International Journal of Robotics Research 2025
+- Trajectory generation and control architecture of zero-sample aircraft based on GPT-4<br>· **Jiaju Kang** (Advisor: Xiaofei Niu). <br>· Final Year Project. Under working<br>· Expect to publish a research paper to International Journal of Robotics Research 2025
 
-- Remote sensing image retrieval based on large language model<br>**Jiaju Kang** (Advisor: Mi Zhang). <br>Intern Program for Senior Students. Under working<br>Working at the Institute of Aerospace Science and Technology, Wuhan University
+- Remote sensing image retrieval based on large language model<br>· **Jiaju Kang** (Advisor: Mi Zhang). <br>· Intern Program for Senior Students. Under working<br>· Working at the Institute of Aerospace Science and Technology, Wuhan University
 
   <br>
