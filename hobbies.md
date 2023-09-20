@@ -21,7 +21,7 @@ title: Hobbies
 
 <br>Over the past year, I have dedicated all of my time and energy to exploring research topics that truly interest me. Whether it's the governmental management platform in China's Zibo that can intelligently categorize public complaints or the intelligent swarm of unmanned drones capable of interacting using natural language for flight missions, I have approached each with a fervent passion for research. I am committed to becoming a curious and dedicated young scholar!
 
-**My dream is to become a professor of computer science at the [best university in my hometown](https://www.sdu.edu.cn/)**
+**My dream is to become a professor of computer science at the [best university in my hometown](https://www.sdu.edu.cn/).**
 
 
 
