@@ -27,6 +27,6 @@ Lastest Update: 19th Sep 2023 &nbsp; 
 
 - Jun. 2021 - June 2022: Chairman of the debate team, School of Computer Science and Technology, Shandong Jianzhu University
 - Apr. 2021 - Present: CCF(China Computer Federation) Student Membership, CSL(China Society of Logistics) Student Membership
-- Apr. 2021 - Sep 2022: Teddy Intelligence Studio **Student Leader**
+- Apr. 2021 - Sep 2023: Teddy Intelligence Studio **Student Leader**
 - Oct. 2020 - July 2022: Shandong Jianzhu University, School of Computer Science and Technology Student self-management Center External Publicity Department (host team) **Student Minister**
 - Oct. 2020 - June 2022: Volunteer Docent, Shandong Jianzhu University (Communist Youth League Exhibition Hall & School History Hall)
