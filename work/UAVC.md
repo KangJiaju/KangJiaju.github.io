@@ -16,27 +16,27 @@ Large models possess certain common-sense problem-solving abilities (for example
 
 ### Algorithm Module Design and Differentiation<br>
 1. Data Collection and Processing:<br>
-    Utilize monocular RGB-D odometry for environmental perception and SLAM modeling to obtain real-time data about the drone's surroundings.<br>
-    Collect data from various environmental scenarios, including normal flight and the presence of obstacles, for model training and testing (LOG).<br>
-    Open datasets can be directly used for simulation testing.<br>
+    · Utilize monocular RGB-D odometry for environmental perception and SLAM modeling to obtain real-time data about the drone's surroundings.<br>
+    · Collect data from various environmental scenarios, including normal flight and the presence of obstacles, for model training and testing (LOG).<br>
+    · Open datasets can be directly used for simulation testing.<br>
 2. Establish Perception and Understanding Modules:<br>
-    Model the collected environmental data to detect and identify important elements such as obstacles, paths, targets, etc.<br>
-    These perception modules can be used to generate semantic information about the environment, aiding the model in understanding the current situation.<br>
+    · Model the collected environmental data to detect and identify important elements such as obstacles, paths, targets, etc.<br>
+    · These perception modules can be used to generate semantic information about the environment, aiding the model in understanding the current situation.<br>
 3. Construct an NLP Module:<br>
-    Design and train a language model to understand and generate natural language commands.<br>
-    This module can accept user language input and convert it into "macro/micro-instructions."<br>
+    · Design and train a language model to understand and generate natural language commands.<br>
+    · This module can accept user language input and convert it into "macro/micro-instructions."<br>
 4. Integrate Perception and NLP:<br>
-    Integrate the perception and NLP modules to enable the model to understand environmental data and generate corresponding instructions.<br>
-    This can be achieved through deep reinforcement learning methods, allowing the model to learn how to make decisions based on environmental data and user commands.<br>
+    · Integrate the perception and NLP modules to enable the model to understand environmental data and generate corresponding instructions.<br>
+    · This can be achieved through deep reinforcement learning methods, allowing the model to learn how to make decisions based on environmental data and user commands.<br>
 5. Environmental Interaction and Decision-making:<br>
-    Implement a module that allows the model to make decisions based on environmental data and user instructions, such as planning a path to avoid obstacles.<br>
-    In the face of specific environmental changes, the model should be able to provide solutions and execute the corresponding actions.<br>
+    · Implement a module that allows the model to make decisions based on environmental data and user instructions, such as planning a path to avoid obstacles.<br>
+    · In the face of specific environmental changes, the model should be able to provide solutions and execute the corresponding actions.<br>
 6. Model Evaluation and Optimization:<br>
-    Regularly test and evaluate your model to ensure its performance remains stable in various situations.<br>
-    Optimize based on test results, which may involve adjusting model hyperparameters or training strategies.<br>
+    · Regularly test and evaluate your model to ensure its performance remains stable in various situations.<br>
+    · Optimize based on test results, which may involve adjusting model hyperparameters or training strategies.<br>
 7. Safety and Robustness:<br>
-    Ensure the model's safety, especially when dealing with different environmental changes, to prevent potential hazards.<br>
-    Implement robust measures to enable the model to handle uncertainties such as noise and sensor errors.<br>
+    · Ensure the model's safety, especially when dealing with different environmental changes, to prevent potential hazards.<br>
+    · Implement robust measures to enable the model to handle uncertainties such as noise and sensor errors.<br>
 
 ### Experiments and Simulation:<br>
 1. Conduct extensive testing and training in a simulation environment to reduce risks on actual drones.<br>
