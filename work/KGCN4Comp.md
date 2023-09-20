@@ -5,4 +5,4 @@ title: KGCN4Comp
 ---
 ## KGCN4Comp: The short text processing mechanism of Chinese complaints
 
-test!!!
+Being sorted out, please look forward to it! 
