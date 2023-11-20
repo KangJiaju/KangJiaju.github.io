@@ -18,7 +18,7 @@ I am a senior student majoring in **Big Data and Data Science Technology** at Sh
 
 - **Sept. 2020 - Jun. 2024:** Shandong Jianzhu University (BEng)
 - **Feb. 2023 - Jun. 2023:** University of Cambridge (Online Research Internship During the COVID-19 Pandemic)
-- **Jul. 2022 - Apr. 2024:** Wuhan University (Research Intern)
+- **Jul. 2023 - Apr. 2024:** Wuhan University (Research Intern)
 
 <br>
 
