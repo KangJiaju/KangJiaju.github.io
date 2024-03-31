@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 19th Sep 2023 &nbsp; 
+Lastest Update: 31th March 2024&nbsp;
 
 ## Competitions
 
