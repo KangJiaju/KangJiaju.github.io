@@ -59,4 +59,4 @@ Lastest Update: 19th Sep 2023&nbsp;
 
 - Remote sensing image retrieval based on large language model<br>· **Jiaju Kang** (Advisor: Mi Zhang). <br>· Intern Program for Senior Students. Under working<br>· Working at the Institute of Aerospace Science and Technology, Wuhan University
 
-  <br>
+  <br> 
