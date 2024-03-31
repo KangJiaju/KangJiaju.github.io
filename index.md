@@ -26,22 +26,18 @@ I am a senior student majoring in **Big Data and Data Science Technology** at Sh
 
 ## Research interest
 
-- Machine Learning
-- Graph Learn
-- Knowledge graph and graph neural network
-- Visual servo autonomous unmanned system
-- Environment modeling algorithms using new sensors
-- Robot control integrated with LLM
+- Multimodal remote sensing LLMs
+- Illusion correcting, continuous learning, and quantization compression of LLMs
+- Application of LLMs in public social governance
 
-My current research focuses on the perception and modeling of the surrounding environment of intelligent systems, especially cluster perception. My interests are **Autonomous unmanned systems** and their application to **Group Perception in Decision Making**. In short, design interconnected clusters with common visual capabilities to make the best decisions. I hope to dedicate my talents to this meaningful cause and bring benefits to society.<br>
-I am also interested in **knowledge discovery** in massive data using methods such as knowledge graph. I have extensive practical experience in the field of NLP. Looking forward to a suitable project to continue my research in this field.
-
+My current research interests lie in efficiently **Correcting Illusions**, **Continuous Learning**, and **Quantization Compression** of Large Language Models (LLMs) in general scenarios. I am also focused on enhancing the **Image-Text Retrieval Capabilities of Multi-modal LLMs** in challenging fields such as remote sensing. The practical application of LLMs, particularly in the domain of public administration, faces various challenges. A long-term project in collaboration with LSE, UCL, FU Berlin, and ESIGELEC has prompted me to contemplate how governmental departments and technical teams can promote the use of LLMs in public administration.
 <br>
 
 ---
 
 ## News and Updates
 
+- **March. 2024：**One paper accepted to IJCNN 2024, see you in Yokohama!
 - **Sept. 2023：**A project on the use of **large language models** for **drone swarm control** is being considered. This will become one of the topics of undergraduate graduation design.
 - **Jun. 2023：**One paper accepted to CONF-MSS 2023, see you in Oxford!
 - **Feb. 2023：**Online Research Intern project with the theme of "Mobile Robot", advised by [Prof. Amanda Prorok](https://www.cst.cam.ac.uk/people/asp45).
