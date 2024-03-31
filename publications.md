@@ -10,7 +10,7 @@ Lastest Update: 19th Sep 2023&nbsp;
 
 
 
-- [Correcting Factuality Hallucination in Complaint Large Language Model via Entity-Augmented](https://www.inns.org/ijcnn-home)<br>· **Jiaju Kang** (First author),  Weichao Pan, Tian Zhang, Ziming Wang, Shuqin Yang, Zhiqin Wang, Jian Wang, Xiaofei Niu<br>· 4th International Conference on Computer Science and Intelligent Communication (CSIC 2022)<br>· (Accepted)<br>· Yokohama, Japan. July, 2024.<br>
+- [Correcting Factuality Hallucination in Complaint Large Language Model via Entity-Augmented](https://www.inns.org/ijcnn-home)<br>· **Jiaju Kang** (First author),  Weichao Pan, Tian Zhang, Ziming Wang, Shuqin Yang, Zhiqin Wang, Jian Wang, Xiaofei Niu<br>· International Joint Conference on Neural Networks (IJCNN 2024 )<br>·  (Accepted)<br>· Yokohama, Japan. July, 2024.<br>
 
 - [Research on Mathematical Modeling Competition and Ideological and Political Education Based on Analysis and Prediction Algorithm](https://www.researchgate.net/publication/369471205_Research_on_Mathematical_Modeling_Competition_and_Ideological_and_Political_Education_Based_on_Analysis_and_Prediction_Algorithm)<br>· Xiang Li, Hongpeng Wang, **Jiaju Kang** (Joint first author), Yiming Qiao<br>· 4th International Conference on Computer Science and Intelligent Communication (CSIC 2022)<br>· (Accepted and Published)<br>· Tianjin, China. December, 2022.<br>
 
@@ -55,7 +55,7 @@ Lastest Update: 19th Sep 2023&nbsp;
 
 ## Undergraduate Thesis
 
-- Research on automatic evaluation criteria of remote sensing image interpretation models<br>· **Jiaju Kang** (Advisor: Xiaofei Niu). <br>· Final Year Project. Under working<br>
+- Research on automatic evaluation criteria of remote sensing image interpretation models<br>· **Jiaju Kang** (Advisor: Xiaofei Niu, Mi Zhang). <br>· Final Year Project. Under working<br>
 
 - Remote sensing image retrieval based on large language model<br>· **Jiaju Kang** (Advisor: Mi Zhang). <br>· Intern Program for Senior Students. Under working<br>· Working at the Institute of Aerospace Science and Technology, Wuhan University
 
