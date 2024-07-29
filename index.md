@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jiaju Kang (Charles, 康家驹)**.
 
-I am a senior student majoring in **Big Data and Data Science Technology** at Shandong Jianzhu University. Currently, I am working as a Research Assistant in **the Institute of Artificial Intelligence and Networks** (Beijing Normal University), advised by [Prof. Weijia Jia](http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm). 
+I obtained a Bachelor of Engineering degree in **Data Science and Big Data Technology** from Shandong Jianzhu University in 2024.Currently, I am working as a Research Assistant in **the Institute of Artificial Intelligence and Networks** (Beijing Normal University), advised by [Prof. Weijia Jia](http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm). 
 
 <br>
 
