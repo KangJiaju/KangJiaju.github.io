@@ -8,17 +8,20 @@ layout: page
 
 Here is **Jiaju Kang (Charles, 康家驹)**.
 
-I am a senior student majoring in **Big Data and Data Science Technology** at Shandong Jianzhu University. Currently, I am working as a Research Intern in **the National Key Laboratory of Surveying, Mapping, and Remote Sensing Information Engineering** (Wuhan University), advised by [Prof. Mi Zhang](http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm). 
+I am a senior student majoring in **Big Data and Data Science Technology** at Shandong Jianzhu University. Currently, I am working as a Research Assistant in **the Institute of Artificial Intelligence and Networks** (Beijing Normal University), advised by [Prof. Weijia Jia](http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm). 
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for Ph.D. position to start in 2024 Fall.**
+**<font color='red'>[Highlight]</font> I am looking for Ph.D. position to start in 2025 Fall.**
 
 - **Sept. 2020 - Jun. 2024:** Shandong Jianzhu University (BEng)
+- **Jul. 2022 - Nov. 2022:** Tongji University (Research Intern)
 - **Feb. 2023 - Jun. 2023:** University of Cambridge (Online Research Internship During the COVID-19 Pandemic)
 - **Jul. 2023 - Apr. 2024:** Wuhan University (Research Intern)
+- **May. 2024 -  Aug. 2024:** Shandong University (Research Assistant)
+- **Aug. 2024 - Present:** Beijing Normal University (Research Assistant)
 
 <br>
 
@@ -36,7 +39,8 @@ My current research interests lie in efficiently **Correcting Illusions**, **Con
 ---
 
 ## News and Updates
-
+- **Aug. 2024：**Research Assistant with the Institute of Artificial Intelligence and Networks, Beijing Normal University, under the guidance of Professors Jia Weijia and Tang Zhiqing.
+- **May. 2024：**One paper accepted to IJCAI workshop 2024, see you in Jeju!
 - **March. 2024：**One paper accepted to IJCNN 2024, see you in Yokohama!
 - **Sept. 2023：**A project on the use of **large language models** for **drone swarm control** is being considered. This will become one of the topics of undergraduate graduation design.
 - **Jun. 2023：**One paper accepted to CONF-MSS 2023, see you in Oxford!
